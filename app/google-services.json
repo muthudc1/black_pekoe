@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "51465115503",
+    "project_id": "uptodoor-87f8e",
+    "storage_bucket": "uptodoor-87f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51465115503:android:97579e4fa289c99a2efa9a",
+        "android_client_info": {
+          "package_name": "com.dreamz.uptodoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51465115503-vfukjnmg3ifnpeh3qkt9d2ptuof3ie97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamz.uptodoor",
+            "certificate_hash": "c82ba1025049f1bc8972b93c7bdf5861d40d16ec"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaj4e0QvST-hgSjweRHLhOVKa3GQfxYQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
