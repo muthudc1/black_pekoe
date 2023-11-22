@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimary">#fd7a61</color>
     <color name="notification_background">#f8bfaa</color>
-    <color name="colorSecondary">#FF5722</color>
+    <color name="colorSecondary">#fd7a61</color>
     <color name="colorPrimaryDark">#0470C3</color>
     <color name="colorAccent">#0470C3</color>
     <color name="colorPrimaryLight">#EEF1F3</color>
 <!--    <color name="bg_color">#FBF9F9</color>-->
-    <color name="bg_color">#F8F8F8</color>
+    <color name="bg_color">#dfeaff</color>
     <color name="title_txt_color">#0E3854</color>
 
     <color name="black">#000000</color>
@@ -29,7 +29,7 @@
 
     <color name="status_text">#FFFFFF</color>
 
-    <color name="tx_fail_bg">#dd4b39</color>
+    <color name="tx_fail_bg">#fd7a61</color>
     <color name="tx_success_bg">#00a65a</color>
 
     <color name="promo_code_fail">#dd4b39</color>
@@ -38,7 +38,7 @@
     <color name="support_ticket_pending">#63bff5</color>
     <color name="support_ticket_opened">#3c8dbc</color>
     <color name="support_ticket_resolved">#00a65a</color>
-    <color name="support_ticket_closed">#dd4b39</color>
+    <color name="support_ticket_closed">#fd7a61</color>
     <color name="support_ticket_reopen">#f39c12</color>
 
 
@@ -48,7 +48,7 @@
     <color name="received_status_bg">#3c8dbc</color>
     <color name="processed_status_bg">#63bff5</color>
     <color name="shipped_status_bg">#f39c12</color>
-    <color name="returned_and_cancel_status_bg">#dd4b39</color>
+    <color name="returned_and_cancel_status_bg">#fd7a61</color>
     <color name="delivered_status_bg">#00a65a</color>
     <color name="awaiting_status_bg">#565650</color>
 

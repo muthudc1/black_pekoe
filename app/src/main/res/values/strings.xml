@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tea Boy</string>
+    <string name="app_name">Black Pekoe</string>
 
     <!-- ************************************************************************************************************* -->
     <!--    For privacy policy and terms and condition whatever you set words in privacy_policy and terms_conditions that words must be contain in msg_privacy_terms.Other wise app will crash-->

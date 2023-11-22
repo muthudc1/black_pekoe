@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 33
     defaultConfig {
-        applicationId "com.dreamz.uptodoor"
+        applicationId "com.dreamzcoder.blackpekoe"
         minSdkVersion 27
         targetSdkVersion 33
         versionCode 4
@@ -30,7 +30,7 @@ android {
             crunchPngs true
         }
     }
-    namespace 'com.dreamz.uptodoor'
+    namespace 'com.dreamzcoder.blackpekoe'
 }
 
 repositories {

@@ -1,30 +1,21 @@
 {
   "project_info": {
-    "project_number": "51465115503",
-    "project_id": "uptodoor-87f8e",
-    "storage_bucket": "uptodoor-87f8e.appspot.com"
+    "project_number": "606421983571",
+    "project_id": "blackpekoe-547cd",
+    "storage_bucket": "blackpekoe-547cd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:51465115503:android:97579e4fa289c99a2efa9a",
+        "mobilesdk_app_id": "1:606421983571:android:33df519fdd57cd770301a6",
         "android_client_info": {
-          "package_name": "com.dreamz.uptodoor"
+          "package_name": "com.dreamzcoder.blackpekoe"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "51465115503-vfukjnmg3ifnpeh3qkt9d2ptuof3ie97.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.dreamz.uptodoor",
-            "certificate_hash": "c82ba1025049f1bc8972b93c7bdf5861d40d16ec"
-          }
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCaj4e0QvST-hgSjweRHLhOVKa3GQfxYQ8"
+          "current_key": "AIzaSyCQq-VT6hWlOKZT7nWRYvvmrsyuYPjFnBI"
         }
       ],
       "services": {

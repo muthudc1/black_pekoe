@@ -135,7 +135,7 @@
 
             <Button
                 android:id="@+id/tvSignUp"
-                android:visibility="gone"
+                android:visibility="visible"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/_25sdp"
@@ -244,7 +244,7 @@
                 android:orientation="vertical"
                 android:visibility="gone">
 
-                <com.dreamz.uptodoor.ui.Pinview
+                <com.dreamzcoder.blackpekoe.ui.Pinview
                     android:id="@+id/pinViewOTP"
                     android:layout_width="match_parent"
                     android:layout_height="35dp"
@@ -434,7 +434,7 @@
         android:background="@drawable/login_curve"
         android:backgroundTint="@color/white"
         android:padding="@dimen/_40sdp"
-        android:visibility="gone">
+        android:visibility="visible">
 
         <LinearLayout
             android:layout_width="match_parent"
